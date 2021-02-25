@@ -1,1 +1,3 @@
-// Este es el archivo de entrada
+// Este es el archivo de entrada, buenas tardes.
+
+const = 'Angélica';
